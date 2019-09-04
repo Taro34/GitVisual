@@ -6,6 +6,7 @@
 
 int main()
 {
+	printf("Projet visual initial");
     return 0;
 }
 
