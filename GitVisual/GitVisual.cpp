@@ -7,6 +7,7 @@
 int main()
 {
 	printf("Projet visual initial");
+	printf("suite du projet");
     return 0;
 }
 
