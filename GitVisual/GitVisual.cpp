@@ -8,6 +8,7 @@ int main()
 {
 	printf("Projet visual initial");
 	printf("suite du projet");
+	printf("fusioné");
 	bim modif
     return 0;
 }
